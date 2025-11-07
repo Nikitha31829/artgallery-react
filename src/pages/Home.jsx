@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom'
-
+import AboutStrip from "../components/AboutStrip";
+import SiteFooter from "../components/SiteFooter";
 export default function Home(){
   return (
     <div className="container">
